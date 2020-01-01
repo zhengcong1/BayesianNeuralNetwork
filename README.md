@@ -54,6 +54,9 @@ a repo sharing Bayesian Neural Network recent papers
 
 [26] [Functional Variational Bayesian Neural Networks](https://arxiv.org/abs/1903.05779)
 
+[27] [Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches](https://arxiv.org/pdf/1803.04386.pdf)
+
+
 ## Markov Chain Monte Carlo
 [1] [Meta-Learning For Stochastic Gradient MCMC](https://openreview.net/forum?id=HkeoOo09YX), ICLR 2019
 
