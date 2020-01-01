@@ -154,7 +154,7 @@ a repo sharing Bayesian Neural Network recent papers
 
 # Applications
 ## Adversarial Defense
-[1] [Understanding Measures of Uncertainty for Adversarial Example Detection](https://arxiv.org/abs/1803.08533), UAI 2018
+[1]** [Understanding Measures of Uncertainty for Adversarial Example Detection](https://arxiv.org/abs/1803.08533), UAI 2018
 
 [2] [Sufficient Conditions for Robustness to Adversarial Examples: a Theoretical and Empirical Study with Bayesian Neural Networks](https://openreview.net/forum?id=B1eZRiC9YX), ICLR 2019
 
