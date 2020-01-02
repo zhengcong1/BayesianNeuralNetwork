@@ -50,7 +50,7 @@ a repo sharing Bayesian Neural Network recent papers
 
 [24] [Stochastic Variational Inference](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf), JMLR 2013
 
-[25] [Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf), ICML 2015
+[25]*** [Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf), ICML 2015
 
 [26] [Functional Variational Bayesian Neural Networks](https://arxiv.org/abs/1903.05779)
 
