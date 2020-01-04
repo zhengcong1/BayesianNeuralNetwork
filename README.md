@@ -3,6 +3,11 @@ a repo sharing Bayesian Neural Network recent papers
 # Methods
 ## Good paper
 [1] [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961), ICML 2017
+[2] [Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf), ICML 2015
+[3] [Bayesian learning via stochastic gradient langevin dynamics] (https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf), ICML 2011
+[4] [A Scalable Laplace Approximation for Neural Networks](https://openreview.net/forum?id=Skdvd2xAZ), ICLR 2018
+[5] [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/pdf/1506.02557.pdf)
+[6]
 ## Variational Inference (VI)
 [1] [Variational Bayesian Phylogenetic Inference ](https://openreview.net/forum?id=SJVmjjR9FX), ICLR 2019
 
@@ -58,6 +63,7 @@ a repo sharing Bayesian Neural Network recent papers
 
 [27] [Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches](https://arxiv.org/pdf/1803.04386.pdf), Iclr 2018
 
+[28] [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/pdf/1506.02557.pdf)
 
 ## Markov Chain Monte Carlo
 [1] [Meta-Learning For Stochastic Gradient MCMC](https://openreview.net/forum?id=HkeoOo09YX), ICLR 2019
