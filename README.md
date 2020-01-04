@@ -1,6 +1,8 @@
 # Bayesian Neural Network Recent Papers
 a repo sharing Bayesian Neural Network recent papers
 # Methods
+## Good paper
+[1] [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961), ICML 2017
 ## Variational Inference (VI)
 [1] [Variational Bayesian Phylogenetic Inference ](https://openreview.net/forum?id=SJVmjjR9FX), ICLR 2019
 
