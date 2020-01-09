@@ -6,7 +6,7 @@ a repo sharing Bayesian Neural Network recent papers
 
 [2] [Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf), ICML 2015
 
-[3] [Bayesian learning via stochastic gradient langevin dynamics] (https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf), ICML 2011
+[3] [Bayesian learning via stochastic gradient langevin dynamics](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf), ICML 2011
 
 [4] [A Scalable Laplace Approximation for Neural Networks](https://openreview.net/forum?id=Skdvd2xAZ), ICLR 2018
 
