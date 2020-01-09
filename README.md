@@ -12,7 +12,7 @@ a repo sharing Bayesian Neural Network recent papers
 
 [5] [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/pdf/1506.02557.pdf)
 
-[6]
+[6] [Understanding Measures of Uncertainty for Adversarial Example Detection](https://arxiv.org/abs/1803.08533), UAI 2018
 
 ## Variational Inference (VI)
 [1] [Variational Bayesian Phylogenetic Inference ](https://openreview.net/forum?id=SJVmjjR9FX), ICLR 2019
