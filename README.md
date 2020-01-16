@@ -14,6 +14,10 @@ a repo sharing Bayesian Neural Network recent papers
 
 [6] [Understanding Measures of Uncertainty for Adversarial Example Detection](https://arxiv.org/abs/1803.08533), UAI 2018
 
+[7] [Noisy Natural Gradient as Variational Inference](http://proceedings.mlr.press/v80/zhang18l/zhang18l.pdf), ICML 2018
+
+
+
 ## Variational Inference (VI)
 [1] [Variational Bayesian Phylogenetic Inference ](https://openreview.net/forum?id=SJVmjjR9FX), ICLR 2019
 
