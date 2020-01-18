@@ -16,7 +16,7 @@ a repo sharing Bayesian Neural Network recent papers
 
 [7] [Noisy Natural Gradient as Variational Inference](http://proceedings.mlr.press/v80/zhang18l/zhang18l.pdf), ICML 2018
 
-
+[8] [Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors](https://arxiv.org/abs/1603.04733), ICML 2016
 
 ## Variational Inference (VI)
 [1] [Variational Bayesian Phylogenetic Inference ](https://openreview.net/forum?id=SJVmjjR9FX), ICLR 2019
